@@ -1,9 +1,11 @@
-# Headless Steam Service
+# Docker Steam Link Service
 
 Play your games in the browser with audio. Connect another device and use it with Steam Remote Play. Easily deploy a Steam Docker instance in seconds.
 
 ## Features:
 - Full video/audio noVNC web access to a Xfce4 Desktop
+- AMD GPU support
+- Intel GPU support
 - NVIDIA GPU support
 - Root access
 - SSH server for remote terminal access
